@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_choice_vendido" table="x_218272_rental_no_inmuebles" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_vendido</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>No</label>
+            <language>en</language>
+            <name>x_218272_rental_no_inmuebles</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin1</sys_created_by>
+            <sys_created_on>2018-04-23 10:04:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8b958b0f4f611300271e00fe9310c74a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin1</sys_updated_by>
+            <sys_updated_on>2018-04-23 12:43:05</sys_updated_on>
+            <value>no</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_vendido</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vendido</label>
+            <language>en</language>
+            <name>x_218272_rental_no_inmuebles</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin1</sys_created_by>
+            <sys_created_on>2018-04-23 12:43:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30f9ab074fe11300271e00fe9310c7dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin1</sys_updated_by>
+            <sys_updated_on>2018-04-23 12:43:05</sys_updated_on>
+            <value>vendido</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_vendido</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Alquilado</label>
+            <language>en</language>
+            <name>x_218272_rental_no_inmuebles</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin1</sys_created_by>
+            <sys_created_on>2018-04-23 12:43:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bcf9ab074fe11300271e00fe9310c7dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin1</sys_updated_by>
+            <sys_updated_on>2018-04-23 12:43:05</sys_updated_on>
+            <value>alquilado</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_vendido</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Si</label>
+            <language>en</language>
+            <name>x_218272_rental_no_inmuebles</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin1</sys_created_by>
+            <sys_created_on>2018-04-23 10:04:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>07958b0f4f611300271e00fe9310c758</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin1</sys_updated_by>
+            <sys_updated_on>2018-04-23 12:43:05</sys_updated_on>
+            <value>si</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_choice_vendido</element>
+            <name>x_218272_rental_no_inmuebles</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin1</sys_created_by>
+            <sys_created_on>2018-04-23 10:04:19</sys_created_on>
+            <sys_id>cf958b0f4f611300271e00fe9310c757</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_choice_vendido</sys_name>
+            <sys_package display_value="Rental-now" source="x_218272_rental_no">8f22f30d4f211300271e00fe9310c7fa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rental-now">8f22f30d4f211300271e00fe9310c7fa</sys_scope>
+            <sys_update_name>sys_choice_x_218272_rental_no_inmuebles_u_choice_vendido</sys_update_name>
+            <sys_updated_by>admin1</sys_updated_by>
+            <sys_updated_on>2018-04-23 10:04:19</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

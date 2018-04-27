@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Alquiler" max_length="40" name="x_218272_rental_no_alquiler" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Id Alquiler" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Cliente" mandatory="true" max_length="32" name="u_cliente_1" reference="x_218272_rental_no_clientes" type="reference"/>
+        <element label="Factura" mandatory="true" max_length="32" name="u_factura" reference="x_218272_rental_no_factura" type="reference"/>
+        <element label="Fecha de tramitación" mandatory="true" max_length="40" name="u_glide_fecha" type="glide_date"/>
+        <element label="Inmueble" mandatory="true" max_length="32" name="u_inmueble" reference="x_218272_rental_no_inmuebles" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="venta" label="Tipo" mandatory="true" max_length="40" name="u_tipo" type="string">
+            <choice>
+                <element label="Venta" sequence="0" value="venta"/>
+                <element label="Alquiler" sequence="1" value="alquiler"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="u_inmueble"/>
+        </index>
+        <index name="index2">
+            <element name="u_cliente_1"/>
+        </index>
+        <index name="index3">
+            <element name="u_factura"/>
+        </index>
+    </element>
+</database>

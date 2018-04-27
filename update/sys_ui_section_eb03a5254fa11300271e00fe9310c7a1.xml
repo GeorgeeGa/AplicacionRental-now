@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="eb03a5254fa11300271e00fe9310c7a1" sys_domain="global" table="x_218272_rental_no_inmuebles" version="3" view="Cliente">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_titulo</element>
+            <position>0</position>
+            <sys_created_by>admin1</sys_created_by>
+            <sys_created_on>2018-04-23 10:31:47</sys_created_on>
+            <sys_id>9deb83034fa11300271e00fe9310c7e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_218272_rental_no_inmuebles" sys_domain="global" view="ab03a5254fa11300271e00fe9310c79e">eb03a5254fa11300271e00fe9310c7a1</sys_ui_section>
+            <sys_updated_by>admin1</sys_updated_by>
+            <sys_updated_on>2018-04-23 10:31:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_descripcion</element>
+            <position>1</position>
+            <sys_created_by>admin1</sys_created_by>
+            <sys_created_on>2018-04-23 10:31:47</sys_created_on>
+            <sys_id>11eb83034fa11300271e00fe9310c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_218272_rental_no_inmuebles" sys_domain="global" view="ab03a5254fa11300271e00fe9310c79e">eb03a5254fa11300271e00fe9310c7a1</sys_ui_section>
+            <sys_updated_by>admin1</sys_updated_by>
+            <sys_updated_on>2018-04-23 10:31:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_tipo_anuncio</element>
+            <position>2</position>
+            <sys_created_by>admin1</sys_created_by>
+            <sys_created_on>2018-04-23 10:31:47</sys_created_on>
+            <sys_id>91eb83034fa11300271e00fe9310c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_218272_rental_no_inmuebles" sys_domain="global" view="ab03a5254fa11300271e00fe9310c79e">eb03a5254fa11300271e00fe9310c7a1</sys_ui_section>
+            <sys_updated_by>admin1</sys_updated_by>
+            <sys_updated_on>2018-04-23 10:31:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_precio_inmueble</element>
+            <position>3</position>
+            <sys_created_by>admin1</sys_created_by>
+            <sys_created_on>2018-04-23 10:31:47</sys_created_on>
+            <sys_id>15eb83034fa11300271e00fe9310c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_218272_rental_no_inmuebles" sys_domain="global" view="ab03a5254fa11300271e00fe9310c79e">eb03a5254fa11300271e00fe9310c7a1</sys_ui_section>
+            <sys_updated_by>admin1</sys_updated_by>
+            <sys_updated_on>2018-04-23 10:31:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin1</sys_created_by>
+            <sys_created_on>2018-04-23 10:31:47</sys_created_on>
+            <sys_id>95eb83034fa11300271e00fe9310c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_218272_rental_no_inmuebles" sys_domain="global" view="ab03a5254fa11300271e00fe9310c79e">eb03a5254fa11300271e00fe9310c7a1</sys_ui_section>
+            <sys_updated_by>admin1</sys_updated_by>
+            <sys_updated_on>2018-04-23 10:31:47</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_tipoinmueble</element>
+            <position>5</position>
+            <sys_created_by>admin1</sys_created_by>
+            <sys_created_on>2018-04-23 10:31:47</sys_created_on>
+            <sys_id>19eb83034fa11300271e00fe9310c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_218272_rental_no_inmuebles" sys_domain="global" view="ab03a5254fa11300271e00fe9310c79e">eb03a5254fa11300271e00fe9310c7a1</sys_ui_section>
+            <sys_updated_by>admin1</sys_updated_by>
+            <sys_updated_on>2018-04-23 10:31:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_direccion</element>
+            <position>6</position>
+            <sys_created_by>admin1</sys_created_by>
+            <sys_created_on>2018-04-23 10:31:47</sys_created_on>
+            <sys_id>99eb83034fa11300271e00fe9310c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_218272_rental_no_inmuebles" sys_domain="global" view="ab03a5254fa11300271e00fe9310c79e">eb03a5254fa11300271e00fe9310c7a1</sys_ui_section>
+            <sys_updated_by>admin1</sys_updated_by>
+            <sys_updated_on>2018-04-23 10:31:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_ciudad</element>
+            <position>7</position>
+            <sys_created_by>admin1</sys_created_by>
+            <sys_created_on>2018-04-23 10:31:47</sys_created_on>
+            <sys_id>1deb83034fa11300271e00fe9310c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_218272_rental_no_inmuebles" sys_domain="global" view="ab03a5254fa11300271e00fe9310c79e">eb03a5254fa11300271e00fe9310c7a1</sys_ui_section>
+            <sys_updated_by>admin1</sys_updated_by>
+            <sys_updated_on>2018-04-23 10:31:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fotografia</element>
+            <position>8</position>
+            <sys_created_by>admin1</sys_created_by>
+            <sys_created_on>2018-04-23 10:31:47</sys_created_on>
+            <sys_id>9deb83034fa11300271e00fe9310c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_218272_rental_no_inmuebles" sys_domain="global" view="ab03a5254fa11300271e00fe9310c79e">eb03a5254fa11300271e00fe9310c7a1</sys_ui_section>
+            <sys_updated_by>admin1</sys_updated_by>
+            <sys_updated_on>2018-04-23 10:31:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_218272_rental_no_inmuebles</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-18 11:02:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb03a5254fa11300271e00fe9310c7a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_218272_rental_no_inmuebles</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Rental-now" source="x_218272_rental_no">8f22f30d4f211300271e00fe9310c7fa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rental-now">8f22f30d4f211300271e00fe9310c7fa</sys_scope>
+            <sys_update_name>sys_ui_section_eb03a5254fa11300271e00fe9310c7a1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-18 11:02:51</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Cliente" name="Cliente">ab03a5254fa11300271e00fe9310c79e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

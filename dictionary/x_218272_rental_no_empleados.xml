@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_user" label="Empleados" max_length="40" name="x_218272_rental_no_empleados" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Fecha de nacimiento" max_length="40" name="u_fecha_nacimiento" type="glide_date"/>
+        <element label="Fecha de nacimiento" max_length="40" name="u_glide_date_3" type="glide_date"/>
+        <element default="javascript:gs.getUser().getFirstName()+' '+gs.getUser().getLastName();" label="Manager" max_length="40" name="u_manager" type="string"/>
+        <element label="Sede" max_length="32" name="u_sede" reference="x_218272_rental_no_sede" type="reference"/>
+        <index name="index">
+            <element name="u_sede"/>
+        </index>
+        <index name="index2">
+            <element name="u_manager"/>
+        </index>
+    </element>
+</database>

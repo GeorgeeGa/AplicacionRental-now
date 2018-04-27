@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_218272_rental_no_sede">x_218272_rental_no_sede</category>
+        <maximum_digits>3</maximum_digits>
+        <number>1</number>
+        <prefix>SED</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-17 10:04:43</sys_created_on>
+        <sys_id>d22c409d4f611300271e00fe9310c734</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SED</sys_name>
+        <sys_package display_value="Rental-now" source="x_218272_rental_no">8f22f30d4f211300271e00fe9310c7fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rental-now">8f22f30d4f211300271e00fe9310c7fa</sys_scope>
+        <sys_update_name>sys_number_d22c409d4f611300271e00fe9310c734</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-17 10:18:19</sys_updated_on>
+    </sys_number>
+</record_update>

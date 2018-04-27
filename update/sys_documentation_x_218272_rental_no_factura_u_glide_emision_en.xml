@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_glide_emision" label="Fecha de emisión" language="en" table="x_218272_rental_no_factura">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_glide_emision</element>
+            <help/>
+            <hint/>
+            <label>Fecha de emisión</label>
+            <language>en</language>
+            <name>x_218272_rental_no_factura</name>
+            <plural>Fecha de emisións</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin1</sys_created_by>
+            <sys_created_on>2018-04-23 09:21:00</sys_created_on>
+            <sys_id>2cbbba474f611300271e00fe9310c7ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Fecha de emisión</sys_name>
+            <sys_package display_value="Rental-now" source="x_218272_rental_no">8f22f30d4f211300271e00fe9310c7fa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rental-now">8f22f30d4f211300271e00fe9310c7fa</sys_scope>
+            <sys_update_name>sys_documentation_x_218272_rental_no_factura_u_glide_emision_en</sys_update_name>
+            <sys_updated_by>admin1</sys_updated_by>
+            <sys_updated_on>2018-04-23 09:21:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

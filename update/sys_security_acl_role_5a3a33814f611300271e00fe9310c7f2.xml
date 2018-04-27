@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin1</sys_created_by>
+        <sys_created_on>2018-04-17 08:46:21</sys_created_on>
+        <sys_id>5a3a33814f611300271e00fe9310c7f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_218272_rental_no_empleados.x_218272_rental_no.manager</sys_name>
+        <sys_package display_value="Rental-now" source="x_218272_rental_no">8f22f30d4f211300271e00fe9310c7fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rental-now">8f22f30d4f211300271e00fe9310c7fa</sys_scope>
+        <sys_security_acl display_value="x_218272_rental_no_empleados">123a33814f611300271e00fe9310c7f0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5a3a33814f611300271e00fe9310c7f2</sys_update_name>
+        <sys_updated_by>admin1</sys_updated_by>
+        <sys_updated_on>2018-04-17 08:46:21</sys_updated_on>
+        <sys_user_role display_value="x_218272_rental_no.manager" name="x_218272_rental_no.manager">95f3f78d4f211300271e00fe9310c7b8</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

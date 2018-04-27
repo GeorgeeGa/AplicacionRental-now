@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_218272_rental_no.usuarios" name="x_218272_rental_no.usuarios">f1cfcd914fa91300271e00fe9310c719</contains>
+        <role display_value="x_218272_rental_no.manager" name="x_218272_rental_no.manager">95f3f78d4f211300271e00fe9310c7b8</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-17 15:07:18</sys_created_on>
+        <sys_id>32619d554fa91300271e00fe9310c708</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_218272_rental_no.usuarios.x_218272_rental_no.manager</sys_name>
+        <sys_package display_value="Rental-now" source="x_218272_rental_no">8f22f30d4f211300271e00fe9310c7fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rental-now">8f22f30d4f211300271e00fe9310c7fa</sys_scope>
+        <sys_update_name>sys_user_role_contains_32619d554fa91300271e00fe9310c708</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-17 15:07:18</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

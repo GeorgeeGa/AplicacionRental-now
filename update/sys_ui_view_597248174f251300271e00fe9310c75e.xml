@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Myhomepage</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin1</sys_created_by>
+        <sys_created_on>2018-04-23 14:30:10</sys_created_on>
+        <sys_id>597248174f251300271e00fe9310c75e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Myhomepage</sys_name>
+        <sys_package display_value="Rental-now" source="x_218272_rental_no">8f22f30d4f211300271e00fe9310c7fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rental-now">8f22f30d4f211300271e00fe9310c7fa</sys_scope>
+        <sys_update_name>sys_ui_view_597248174f251300271e00fe9310c75e</sys_update_name>
+        <sys_updated_by>admin1</sys_updated_by>
+        <sys_updated_on>2018-04-23 14:30:10</sys_updated_on>
+        <title>Myhomepage</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

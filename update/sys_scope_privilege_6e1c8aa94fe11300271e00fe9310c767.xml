@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="Rental-now">8f22f30d4f211300271e00fe9310c7fa</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>12345678A</sys_created_by>
+        <sys_created_on>2018-04-18 14:02:10</sys_created_on>
+        <sys_id>6e1c8aa94fe11300271e00fe9310c767</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glide API: user roles and groups</sys_name>
+        <sys_package display_value="Rental-now" source="x_218272_rental_no">8f22f30d4f211300271e00fe9310c7fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rental-now">8f22f30d4f211300271e00fe9310c7fa</sys_scope>
+        <sys_update_name>sys_scope_privilege_6e1c8aa94fe11300271e00fe9310c767</sys_update_name>
+        <sys_updated_by>12345678A</sys_updated_by>
+        <sys_updated_on>2018-04-18 14:02:10</sys_updated_on>
+        <target_name>Glide API: user roles and groups</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>

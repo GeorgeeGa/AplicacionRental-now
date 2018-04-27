@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_translated">
+    <sys_translated action="INSERT_OR_UPDATE">
+        <element>name</element>
+        <id/>
+        <label>Alquilar</label>
+        <language>es</language>
+        <name>sys_ui_action</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>admin1</sys_created_by>
+        <sys_created_on>2018-04-23 10:52:27</sys_created_on>
+        <sys_id>88a01f074fa11300271e00fe9310c716</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alquilar</sys_name>
+        <sys_package display_value="Rental-now" source="x_218272_rental_no">8f22f30d4f211300271e00fe9310c7fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rental-now">8f22f30d4f211300271e00fe9310c7fa</sys_scope>
+        <sys_update_name>sys_translated_88a01f074fa11300271e00fe9310c716</sys_update_name>
+        <sys_updated_by>admin1</sys_updated_by>
+        <sys_updated_on>2018-04-23 10:52:27</sys_updated_on>
+        <value>Alquilar</value>
+    </sys_translated>
+</record_update>

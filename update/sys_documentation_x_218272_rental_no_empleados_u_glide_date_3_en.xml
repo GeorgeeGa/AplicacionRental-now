@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_glide_date_3" label="Fecha de nacimiento" language="en" table="x_218272_rental_no_empleados">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_glide_date_3</element>
+            <help/>
+            <hint/>
+            <label>Fecha de nacimiento</label>
+            <language>en</language>
+            <name>x_218272_rental_no_empleados</name>
+            <plural>Fecha de nacimientos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin1</sys_created_by>
+            <sys_created_on>2018-04-17 09:39:55</sys_created_on>
+            <sys_id>8f76c8594f611300271e00fe9310c7ce</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Fecha de nacimiento</sys_name>
+            <sys_package display_value="Rental-now" source="x_218272_rental_no">8f22f30d4f211300271e00fe9310c7fa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rental-now">8f22f30d4f211300271e00fe9310c7fa</sys_scope>
+            <sys_update_name>sys_documentation_x_218272_rental_no_empleados_u_glide_date_3_en</sys_update_name>
+            <sys_updated_by>admin1</sys_updated_by>
+            <sys_updated_on>2018-04-17 10:26:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

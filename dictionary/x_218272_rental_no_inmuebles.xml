@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Inmuebles" max_length="40" name="x_218272_rental_no_inmuebles" type="collection">
+        <element attributes="pdf_cell_type=image" label="Fotografia" max_length="40" name="fotografia" type="user_image"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Id_inmueble" max_length="40" name="number" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Aprobado por" max_length="40" name="u_aprobado_por" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Vendido o Alquilado" max_length="40" name="u_choice_vendido" type="string">
+            <choice>
+                <element label="Vendido" sequence="0" value="vendido"/>
+                <element label="Alquilado" sequence="1" value="alquilado"/>
+            </choice>
+        </element>
+        <element label="Ciudad" mandatory="true" max_length="40" name="u_ciudad" reference="x_218272_rental_no_sede" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Comprado por" max_length="40" name="u_comprado_por" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Descripción" max_length="300" name="u_descripcion" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direccion" mandatory="true" max_length="40" name="u_direccion" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="no" label="Disponible" max_length="40" name="u_disponible" type="string">
+            <choice>
+                <element label="Si" sequence="0" value="si"/>
+                <element label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element label="Cliente" mandatory="true" max_length="32" name="u_dnicliente" reference="x_218272_rental_no_clientes" type="reference"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" default="0" label="Precio" mandatory="true" max_length="20" name="u_precio_inmueble" type="price"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:gs.getUser().getFirstName()+' '+gs.getUser().getLastName();" label="Propietario" max_length="40" name="u_propietario" read_only="true" type="string"/>
+        <element label="Propietario" mandatory="true" max_length="32" name="u_reference_1" reference="x_218272_rental_no_clientes" type="reference"/>
+        <element label="Propietario" mandatory="true" max_length="32" name="u_reference_propietario" reference="x_218272_rental_no_clientes" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="piso" label="Tipo de inmueble" mandatory="true" max_length="40" name="u_tipoinmueble" type="string">
+            <choice>
+                <element label="Piso" sequence="0" value="piso"/>
+                <element label="Chalet" sequence="1" value="chalet"/>
+                <element label="Local" sequence="2" value="local"/>
+                <element label="Garaje" sequence="3" value="garaje"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tipo de anuncio" mandatory="true" max_length="40" name="u_tipo_anuncio" type="string">
+            <choice>
+                <element label="Venta" sequence="0" value="venta"/>
+                <element label="Alquiler" sequence="1" value="alquiler"/>
+                <element label="Ambos" sequence="2" value="ambos"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Titulo" mandatory="true" max_length="40" name="u_titulo" type="string"/>
+        <index name="index">
+            <element name="u_ciudad"/>
+        </index>
+        <index name="index2">
+            <element name="u_reference_1"/>
+        </index>
+        <index name="index3">
+            <element name="u_reference_propietario"/>
+        </index>
+        <index name="index4">
+            <element name="u_dnicliente"/>
+        </index>
+    </element>
+</database>

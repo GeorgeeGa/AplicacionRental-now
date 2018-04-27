@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Inmuebles" language="es" table="x_218272_rental_no_inmuebles">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Inmuebles</label>
+            <language>es</language>
+            <name>x_218272_rental_no_inmuebles</name>
+            <plural>Inmuebles</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin1</sys_created_by>
+            <sys_created_on>2018-04-17 14:14:11</sys_created_on>
+            <sys_id>604509994f691300271e00fe9310c79b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Inmuebles</sys_name>
+            <sys_package display_value="Rental-now" source="x_218272_rental_no">8f22f30d4f211300271e00fe9310c7fa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rental-now">8f22f30d4f211300271e00fe9310c7fa</sys_scope>
+            <sys_update_name>sys_documentation_x_218272_rental_no_inmuebles__es</sys_update_name>
+            <sys_updated_by>admin1</sys_updated_by>
+            <sys_updated_on>2018-04-17 14:14:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

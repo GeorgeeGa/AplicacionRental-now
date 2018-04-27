@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="82b8a5294fa11300271e00fe9310c784" sys_domain="global" table="x_218272_rental_no_clientes" version="3" view="ess">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>0</position>
+            <sys_created_by>12345678A</sys_created_by>
+            <sys_created_on>2018-04-18 11:27:35</sys_created_on>
+            <sys_id>0eb8a5294fa11300271e00fe9310c784</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_218272_rental_no_clientes" sys_domain="global" view="400d3162b92013006517ce7df7ee4695">82b8a5294fa11300271e00fe9310c784</sys_ui_section>
+            <sys_updated_by>12345678A</sys_updated_by>
+            <sys_updated_on>2018-04-18 11:27:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>1</position>
+            <sys_created_by>12345678A</sys_created_by>
+            <sys_created_on>2018-04-18 11:27:35</sys_created_on>
+            <sys_id>8eb8a5294fa11300271e00fe9310c784</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_218272_rental_no_clientes" sys_domain="global" view="400d3162b92013006517ce7df7ee4695">82b8a5294fa11300271e00fe9310c784</sys_ui_section>
+            <sys_updated_by>12345678A</sys_updated_by>
+            <sys_updated_on>2018-04-18 11:27:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone</element>
+            <position>2</position>
+            <sys_created_by>12345678A</sys_created_by>
+            <sys_created_on>2018-04-18 11:27:35</sys_created_on>
+            <sys_id>02b8a5294fa11300271e00fe9310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_218272_rental_no_clientes" sys_domain="global" view="400d3162b92013006517ce7df7ee4695">82b8a5294fa11300271e00fe9310c784</sys_ui_section>
+            <sys_updated_by>12345678A</sys_updated_by>
+            <sys_updated_on>2018-04-18 11:27:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mobile_phone</element>
+            <position>3</position>
+            <sys_created_by>12345678A</sys_created_by>
+            <sys_created_on>2018-04-18 11:27:35</sys_created_on>
+            <sys_id>82b8a5294fa11300271e00fe9310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_218272_rental_no_clientes" sys_domain="global" view="400d3162b92013006517ce7df7ee4695">82b8a5294fa11300271e00fe9310c784</sys_ui_section>
+            <sys_updated_by>12345678A</sys_updated_by>
+            <sys_updated_on>2018-04-18 11:27:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <position>4</position>
+            <sys_created_by>12345678A</sys_created_by>
+            <sys_created_on>2018-04-18 11:27:35</sys_created_on>
+            <sys_id>06b8a5294fa11300271e00fe9310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_218272_rental_no_clientes" sys_domain="global" view="400d3162b92013006517ce7df7ee4695">82b8a5294fa11300271e00fe9310c784</sys_ui_section>
+            <sys_updated_by>12345678A</sys_updated_by>
+            <sys_updated_on>2018-04-18 11:27:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>12345678A</sys_created_by>
+            <sys_created_on>2018-04-18 11:27:35</sys_created_on>
+            <sys_id>86b8a5294fa11300271e00fe9310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_218272_rental_no_clientes" sys_domain="global" view="400d3162b92013006517ce7df7ee4695">82b8a5294fa11300271e00fe9310c784</sys_ui_section>
+            <sys_updated_by>12345678A</sys_updated_by>
+            <sys_updated_on>2018-04-18 11:27:35</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>6</position>
+            <sys_created_by>12345678A</sys_created_by>
+            <sys_created_on>2018-04-18 11:27:35</sys_created_on>
+            <sys_id>0ab8a5294fa11300271e00fe9310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_218272_rental_no_clientes" sys_domain="global" view="400d3162b92013006517ce7df7ee4695">82b8a5294fa11300271e00fe9310c784</sys_ui_section>
+            <sys_updated_by>12345678A</sys_updated_by>
+            <sys_updated_on>2018-04-18 11:27:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>notification</element>
+            <position>7</position>
+            <sys_created_by>12345678A</sys_created_by>
+            <sys_created_on>2018-04-18 11:27:35</sys_created_on>
+            <sys_id>8ab8a5294fa11300271e00fe9310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_218272_rental_no_clientes" sys_domain="global" view="400d3162b92013006517ce7df7ee4695">82b8a5294fa11300271e00fe9310c784</sys_ui_section>
+            <sys_updated_by>12345678A</sys_updated_by>
+            <sys_updated_on>2018-04-18 11:27:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_format</element>
+            <position>8</position>
+            <sys_created_by>12345678A</sys_created_by>
+            <sys_created_on>2018-04-18 11:27:35</sys_created_on>
+            <sys_id>0eb8a5294fa11300271e00fe9310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_218272_rental_no_clientes" sys_domain="global" view="400d3162b92013006517ce7df7ee4695">82b8a5294fa11300271e00fe9310c784</sys_ui_section>
+            <sys_updated_by>12345678A</sys_updated_by>
+            <sys_updated_on>2018-04-18 11:27:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>9</position>
+            <sys_created_by>12345678A</sys_created_by>
+            <sys_created_on>2018-04-18 11:27:35</sys_created_on>
+            <sys_id>8eb8a5294fa11300271e00fe9310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_218272_rental_no_clientes" sys_domain="global" view="400d3162b92013006517ce7df7ee4695">82b8a5294fa11300271e00fe9310c784</sys_ui_section>
+            <sys_updated_by>12345678A</sys_updated_by>
+            <sys_updated_on>2018-04-18 11:27:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_218272_rental_no_clientes</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>12345678A</sys_created_by>
+            <sys_created_on>2018-04-18 11:27:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>82b8a5294fa11300271e00fe9310c784</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_218272_rental_no_clientes</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Rental-now" source="x_218272_rental_no">8f22f30d4f211300271e00fe9310c7fa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rental-now">8f22f30d4f211300271e00fe9310c7fa</sys_scope>
+            <sys_update_name>sys_ui_section_82b8a5294fa11300271e00fe9310c784</sys_update_name>
+            <sys_updated_by>12345678A</sys_updated_by>
+            <sys_updated_on>2018-04-18 11:27:35</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Self Service" name="ess">400d3162b92013006517ce7df7ee4695</view>
+            <view_name>ess</view_name>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

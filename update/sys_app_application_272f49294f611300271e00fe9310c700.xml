@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description>Modulo de aplicación del cual cuelgan todas las funcionalidades de Rental-now.</description>
+        <device_type>browser</device_type>
+        <hint>Aplicación Rental-now.</hint>
+        <name/>
+        <order>100</order>
+        <roles>x_218272_rental_no.usuarios</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin1</sys_created_by>
+        <sys_created_on>2018-04-18 09:37:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>272f49294f611300271e00fe9310c700</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rental-now</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Rental-now" source="x_218272_rental_no">8f22f30d4f211300271e00fe9310c7fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rental-now">8f22f30d4f211300271e00fe9310c7fa</sys_scope>
+        <sys_update_name>sys_app_application_272f49294f611300271e00fe9310c700</sys_update_name>
+        <sys_updated_by>admin1</sys_updated_by>
+        <sys_updated_on>2018-04-18 09:37:43</sys_updated_on>
+        <title>Rental-now</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

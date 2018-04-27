@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Manager, este rol es el unico que tiene permisos para crear, actualizar y leer en todas las tablas de la aplicación.</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_218272_rental_no.manager</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>manager</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin1</sys_created_by>
+        <sys_created_on>2018-04-17 08:21:09</sys_created_on>
+        <sys_id>95f3f78d4f211300271e00fe9310c7b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_218272_rental_no.manager</sys_name>
+        <sys_package display_value="Rental-now" source="x_218272_rental_no">8f22f30d4f211300271e00fe9310c7fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rental-now">8f22f30d4f211300271e00fe9310c7fa</sys_scope>
+        <sys_update_name>sys_user_role_95f3f78d4f211300271e00fe9310c7b8</sys_update_name>
+        <sys_updated_by>admin1</sys_updated_by>
+        <sys_updated_on>2018-04-17 08:21:09</sys_updated_on>
+    </sys_user_role>
+</record_update>

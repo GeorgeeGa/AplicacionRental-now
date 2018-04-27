@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_translated">
+    <sys_translated action="INSERT_OR_UPDATE">
+        <element>name</element>
+        <id/>
+        <label>Botón Comprar</label>
+        <language>es</language>
+        <name>sys_ui_action</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>admin1</sys_created_by>
+        <sys_created_on>2018-04-18 14:55:53</sys_created_on>
+        <sys_id>956852ad4fe11300271e00fe9310c7ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Botón Comprar</sys_name>
+        <sys_package display_value="Rental-now" source="x_218272_rental_no">8f22f30d4f211300271e00fe9310c7fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rental-now">8f22f30d4f211300271e00fe9310c7fa</sys_scope>
+        <sys_update_name>sys_translated_956852ad4fe11300271e00fe9310c7ce</sys_update_name>
+        <sys_updated_by>admin1</sys_updated_by>
+        <sys_updated_on>2018-04-18 14:55:53</sys_updated_on>
+        <value>Botón Comprar</value>
+    </sys_translated>
+</record_update>

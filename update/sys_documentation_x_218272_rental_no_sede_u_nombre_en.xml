@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_nombre" label="Nombre" language="en" table="x_218272_rental_no_sede">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_nombre</element>
+            <help/>
+            <hint/>
+            <label>Nombre</label>
+            <language>en</language>
+            <name>x_218272_rental_no_sede</name>
+            <plural>Nombres</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-17 10:13:28</sys_created_on>
+            <sys_id>e22e40dd4f611300271e00fe9310c7f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Nombre</sys_name>
+            <sys_package display_value="Rental-now" source="x_218272_rental_no">8f22f30d4f211300271e00fe9310c7fa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rental-now">8f22f30d4f211300271e00fe9310c7fa</sys_scope>
+            <sys_update_name>sys_documentation_x_218272_rental_no_sede_u_nombre_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-17 10:13:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

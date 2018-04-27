@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Sede" max_length="40" name="x_218272_rental_no_sede" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="id_sede" max_length="40" name="number" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Ciudad" mandatory="true" max_length="40" name="u_ciudad" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direccion" mandatory="true" max_length="40" name="u_direccion" type="string"/>
+        <element label="Manager" max_length="32" name="u_manager" reference="x_218272_rental_no_empleados" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Nombre" mandatory="true" max_length="40" name="u_nombre" type="string"/>
+        <element label="Manager" max_length="32" name="u_reference_manager" reference="x_218272_rental_no_empleados" type="reference"/>
+        <index name="index">
+            <element name="u_manager"/>
+        </index>
+        <index name="index2">
+            <element name="u_reference_manager"/>
+        </index>
+    </element>
+</database>
